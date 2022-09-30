@@ -1,7 +1,9 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  app: vote
+  labels:
+    app: vote
+  name: vote
 spec:
   minReadySeconds: 20
   replicas: 3
