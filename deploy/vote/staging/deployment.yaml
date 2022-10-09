@@ -11,4 +11,4 @@ spec:
     spec:
       containers:
       - name: vote
-        image: zhuahaha/vote:v4 # {“$imagepolicy”: “flux-system:vote”}
+        image: zhuahaha/vote:main-6e0259ab-1665304973 # {“$imagepolicy”: “flux-system:vote”}
