@@ -11,4 +11,4 @@ spec:
     spec:
       containers:
       - name: vote
-        image: zhuahaha/vote:main-c433d651-1665307762 # {"$imagepolicy": "flux-system:vote"}
+        image: zhuahaha/vote:main-4912936a-1665308486 # {"$imagepolicy": "flux-system:vote"}
